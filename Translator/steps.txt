@@ -1,0 +1,2 @@
+1. po kliknięciu OpenFile wrzucić text do orignal language
+2. Funkcjonalnośc czytania z pola Orignal language i wpisania tłumaczenia do pola przetłumaczony text po kliknięciu Trasnlate
