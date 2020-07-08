@@ -31,3 +31,16 @@ def get_all_images(url):
             img_url = img_url[:pos]
     except ValueError:
             pass
+    # finally, if the url is valid
+     if is_valid(img_url):
+        urls.append(img_url)
+    return urls
+def download (url, pathname):
+    """
+    Downloads a file given an URL and puts it in the folder `pathname`
+    """
+    # if path doesn't exist, make that path dir
+    if not os.path.isdir(pathname):
+        os.makedirs(pathname)
+    # download the body of response by chunk, not immediately
+    response = requests.get(url, stream=True)
