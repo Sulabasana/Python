@@ -44,3 +44,10 @@ def download (url, pathname):
         os.makedirs(pathname)
     # download the body of response by chunk, not immediately
     response = requests.get(url, stream=True)
+    # get the total file size
+    file_size = int(response.headers.get("Content-Length", 0))
+
+    # get the file name
+    filename = os.path.join(pathname, url.split("/")[-1])
+
+    # progress bar, changing the unit to bytes instead of iteration (default by tqdm)
