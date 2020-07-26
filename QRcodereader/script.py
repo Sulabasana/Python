@@ -34,3 +34,4 @@ if bbox is not None:
         point1 = tuple(bbox[i][0])
         point2 = tuple(bbox[(i+1) % n_lines][0])
         cv2.line(img, point1, point2, color=(255, 0, 0), thickness=2)
+        
