@@ -13,3 +13,16 @@ if auth_res.status_code == 200:
 else:
     print("[!] Cannot get access token, exiting...")
     exit()
+# construct the request headers with authorization
+headers = {"Authorization": f"Bearer {access_token}"}
+
+# get the group UID associated with our account
+groups_res = requests.get("https://api-ssl.bitly.com/v4/groups", headers=headers)
+if groups_res.status_code == 200:
+    # if response is OK, get the GUID
+    groups_data = groups_res.json()['groups'][0]
+    guid = groups_data['guid']
+else:
+    print("[!] Cannot get GUID, exiting...")
+    exit()
+    
