@@ -6,3 +6,6 @@ QR CODE reader
 URL
 29.07.2020
 URL
+
+Next
+https://www.thepythoncode.com/article/get-geolocation-in-python
