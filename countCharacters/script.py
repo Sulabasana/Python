@@ -30,6 +30,7 @@ def addApp():
 def runApps():
     for app in apps:
         os.startfile(app)
+        
 
 canvas = tk.Canvas(root, height=700,width=700, bg="#263400")
 canvas.pack() #attach canvas to root
@@ -48,17 +49,17 @@ runapps.pack()
 for app in apps:
     label = tk.Label (frame, text=app)
     label.pack()
+    
+
+with open(app) as f:
+        data = f.read()    
+    data = data.replace(" ","").replace(",","").replace(".","").replace("-","")
+    number_of_characters = len(data)
+    print(f"This text contains: {number_of_characters} characters")
+
+
 
 root.mainloop();
-
-with open("file.txt") as f:
-    data = f.read()
-    
-# data = data.replace(" ","").replace(",","").replace(".","").replace("-","")
-# number_of_characters = len(data)
-# print(f"This text contains: {number_of_characters} characters")
-
-
 
 
 
