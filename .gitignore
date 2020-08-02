@@ -1,3 +1,6 @@
 error.txt
 weights/
 images/
+__pycache__/
+build/
+dist/
