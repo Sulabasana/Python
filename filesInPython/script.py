@@ -17,4 +17,14 @@ print("The current directory changing the directory to folder:", os.getcwd())
 os.chdir("..")
 
 # make several nested directories
-os.makedirs("nested1/nested2/nested3")
+if not os.path.isdir("nested1/nested2/nested3"):
+     os.makedirs("nested1/nested2/nested3")
+
+# create a new text file
+text_file = open("text.txt", "w")
+
+# write to this file some text
+text_file.write("This is a text file")
+
+# rename text.txt to renamed-text.txt
+os.rename("text.txt", "renamed-text.txt")

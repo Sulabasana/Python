@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['countChar.py'],
-             pathex=['C:\\Users\\piotr\\Github\\LearnPython\\Python\\countCharacters'],
+             pathex=['C:\\Users\\Piotrek\\Documents\\GitHub\\Python\\countCharacters'],
              binaries=[],
              datas=[],
              hiddenimports=[],
