@@ -8,3 +8,8 @@ def foo(*args):
 def bar(*args):
     args = [x.upper() for x in args]
     return sorted(args)
+#Keyword arguments
+def find_sum(**kwargs):
+    return sum(kwargs.values())
+    
+print(find_sum(x=1,y=4,z=4))
