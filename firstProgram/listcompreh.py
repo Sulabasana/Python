@@ -12,3 +12,4 @@ def foo(lst):
 
 def foo1(lst):
     return sum([float(i) for i in lst])
+    
