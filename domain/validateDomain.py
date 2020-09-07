@@ -1,4 +1,5 @@
-import whois # pip install python-whois
+import whois 
+# pip install python-whois
 
 def is_registered(domain_name):
     """
@@ -18,7 +19,8 @@ domains = [
     "google.com",
     "github.com",
     "unknownrandomdomain.com",
-    "notregistered.co"
+    "notregistered.co",
+    "onet.pl"
 ]
 # iterate over domains
 for domain in domains:
