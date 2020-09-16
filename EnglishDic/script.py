@@ -1,4 +1,6 @@
 import json
+from difflib import get_close_matches
+#compares words
 data = json.load(open("data.json"))
 def translate(w):
     w = w.lower()
