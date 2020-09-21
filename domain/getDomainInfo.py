@@ -1,9 +1,11 @@
 import whois
 from validateDomain import is_registered
-
-domain_name = "google.com"
+domain = input("Provide domain name: ")
+domain_name = domain
 if is_registered(domain_name):
     whois_info = whois.whois(domain_name)
+    # print if is registered
+    print('Domain ' + domain_name + " is registered")
     # print the registrar
     print("Domain registrar:", whois_info.registrar)
     # print the WHOIS server
