@@ -28,3 +28,17 @@ def draw_barcode(decoded, image):
                             color=(0, 255, 0),
                             thickness=5)
     return image
+
+if __name__ == "__main__":
+    from glob import glob
+
+    barcodes = glob("barcode*.png")
+    for barcode_file in barcodes:
+        # load the image to opencv
+        img = cv2.imread(barcode_file)
+        # decode detected barcodes & get the image
+        # that is drawn
+        img = decode(img)
+        # show the image
+        cv2.imshow("img", img)
+        cv2.waitKey(0)
