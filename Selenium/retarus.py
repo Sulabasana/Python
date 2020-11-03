@@ -28,7 +28,7 @@ if __name__ == '__main__':
         myElem_2.click()
         # Get the Submit button to click and start free testing using selector CSS_SELECTOR
         myElem_3= WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "#login")))
-        # Starting free testing on LambdaTest
+        # Starting free testing on Retarus
         myElem_3.click()
         sleep(2)
 
@@ -37,7 +37,9 @@ if __name__ == '__main__':
         myElem_4.click()
         sleep(1)
         #Click E-mail Services
-        myElem_5 = WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "#navlist9 > li:nth-child(1)")))
+        myElem_5 = browser.find_elements_by_xpath("//*[contains(text(), 'E-Mail Services')]")
+        print(myElem_5)
+        # myElem_5 = WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "#navlist9 > li:nth-child(1)")))
         myElem_5.click()
         sleep(1)
         #Click User Configuration
