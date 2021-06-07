@@ -1,23 +1,24 @@
-from tkinter import *
-root = Tk()
+import pyperclip
+userName = input("Please provide a name: \n")
+print(f'You entered {userName}')
+capitalized = userName.title()
+print(f'The name is \n{capitalized}')
 
-# userName = input("Please provide name \n")
-# print(f'You enetered {userName}')
+pyperclip.copy(capitalized)
 
-userName = Entry(root, width=50)
-userName.pack()
-userName.insert(0," Enter the name SAG ")
-print(userName)
+# space = userName.split(' ')
+# print(space)
 
+# for word in space:
+#     # print(word)
+#     capitalized = word.capitalize()
+#     # print(capitalized)
+#     mySeparator = ""
+#     joined = mySeparator.join(capitalized)
+#     print(joined)
+    
 
-def capitalize():
-    capitalized = userName.title()
-    print(f"Name is \n {capitalized}")
-    return capitalized
-
-myButton = Button(root, text="Change letter to capitalized!", command=capitalize)
-myButton.pack()
-
-
-
-root.mainloop()
+    
+# # print(joined)    
+# # capitalized = word.capitalize()
+# # print(capitalized)
