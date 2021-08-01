@@ -4,7 +4,7 @@ import time
 
 timestr = time.strftime("%d%m%Y")
 
-myItems = {'Płyta':'https://www.ceneo.pl/74881580','Lodówka':'https://www.ceneo.pl/78869466',"Mikrofala":'https://www.ceneo.pl/31934555',"Piekarnik":"https://www.ceneo.pl/49990424"}
+myItems = {'Płyta':'https://www.ceneo.pl/74881580','Lodówka':'https://www.ceneo.pl/78869466',"Mikrofala":'https://www.ceneo.pl/31934555',"Piekarnik":"https://www.ceneo.pl/49990424","Zmywarka":"https://www.ceneo.pl/49559820"}
 for item, link in myItems.items():
     # html = item
     html = urllib.request.urlopen(link)

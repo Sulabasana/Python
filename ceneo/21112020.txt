@@ -1,0 +1,5 @@
+('P³yta', '\n1199,00z³')
+('Lodówka', '\n2199,00z³')
+('Mikrofala', '\n514,80z³')
+('Piekarnik', '\n2049,00z³')
+('Zmywarka', '\n1349,00z³')
