@@ -11,7 +11,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 if __name__ == '__main__':
     # Instantiate the webdriver with the executable location of MS Edge
-    browser = webdriver.Edge(r"C:\Users\Piotrek\Desktop\LearnPython\edgedriver_win32r86\msedgedriver.exe")
+    browser = webdriver.Chrome(r'C:\Users\piotr\Selenium\chromedriver_win32\chromedriver.exe')
     # Simply just open a new Edge browser and go to lambdatest.com
     browser.maximize_window()
     browser.get('https://www.lambdatest.com')
