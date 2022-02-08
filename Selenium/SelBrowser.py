@@ -11,18 +11,20 @@ from selenium.webdriver.opera.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
 
 if __name__ == '__main__':
-    # Instantiate the webdriver with the executable location of Chrome Driver
+    # Instantiate the webdriver with the executable location of Chrome driver
     browser = webdriver.Chrome(r'C:\Users\piotr\Selenium\chromedriver_win32\chromedriver.exe')
     # Simply just open a new Chrome browser and go to pluralsight.com
     browser.maximize_window()
-    browser.get('https://www.pluralsight.com/')
+    browser.get('https://www.selenium.dev//')
     try:
         # Get the search filed
-        myElem_1 = browser.find_element_by_class_name('ps-nav--search')
+        # myElem_1 = browser.find_element_by_class_name('td-search-input') $x("//input[@type='search']")
+        myElem_1 = browser.find_element_by_xpath("//input[@type='search']")
         myElem_1.click()
-        myElem_2 = browser.find_element_by_name('q')
-        myElem_2.send_keys("Python")
-        myElem_2.send_keys(Return)
+        myElem_1.send_keys("Python")
+        # myElem_2 = browser.find_element_by_name('q')
+        # myElem_2.send_keys("Python")
+        # myElem_2.send_keys(Return)
         sleep(25)
         
         
