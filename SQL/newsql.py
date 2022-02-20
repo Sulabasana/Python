@@ -54,6 +54,11 @@ books = [
         "name": "MySQL for Python",
         "author": "Albert Lukaszewski",
         "price": 49.99,
+    },
+    {
+        "name": "O obrotach sfer niebieskich",
+        "author": "Mikołaj Kopernik",
+        "price": 33.99,
     }
 ]
 # iterate over books list
