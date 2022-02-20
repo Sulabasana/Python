@@ -74,3 +74,13 @@ for book in books:
     )
     """, params=(id, name, author, price, url))
     print(f"[+] Inserted the book: {name}")
+
+db_connection.commit
+
+
+# fetch the database
+cursor.execute("select * from book")
+# get all selected rows
+rows = cursor.fetchall()
+# print all rows in a tabular format
+print(tabulate(rows, headers=cursor.column_names))
