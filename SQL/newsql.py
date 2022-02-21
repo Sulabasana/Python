@@ -84,3 +84,9 @@ cursor.execute("select * from book")
 rows = cursor.fetchall()
 # print all rows in a tabular format
 print(tabulate(rows, headers=cursor.column_names))
+
+
+# close the cursor
+cursor.close()
+# close the DB connection
+db_connection.close()
