@@ -8,6 +8,6 @@ from pprint import pprint
 app = Nominatim(user_agent="tutorial")
 
 # get location raw data
-location = app.geocode("Wielka Sowa, Poland").raw
+location = app.geocode("Lviv, Ukraine").raw
 # print raw data
 pprint(location)
