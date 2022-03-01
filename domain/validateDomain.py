@@ -13,15 +13,15 @@ def is_registered(domain_name):
     else:
         return bool(w.domain_name)
 
-# # list of registered & non registered domains to test our function
-# domains = [
-#     "thepythoncode.com",
-#     "google.com",
-#     "github.com",
-#     "unknownrandomdomain.com",
-#     "notregistered.co",
-#     "onet.pl"
-# ]
-# # iterate over domains
-# for domain in domains:
-#     print(domain, "is registered" if is_registered(domain) else "is not registered")
+# list of registered & non registered domains to test our function
+domains = [
+    "thepythoncode.com",
+    "google.com",
+    "github.com",
+    "unknownrandomdomain.com",
+    "notregistered.co",
+    "onet.pl"
+]
+# iterate over domains
+for domain in domains:
+    print(domain, "is registered" if is_registered(domain) else "is not registered")
