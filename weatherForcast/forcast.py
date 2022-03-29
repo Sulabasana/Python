@@ -16,4 +16,20 @@ def get_weather_data(url):
     # create a new soup
     soup = bs(html.text, "html.parser")
 
+    # store all results on this dictionary
+    result = {}
+    # extract region
+    result['region'] = soup.find("div", attrs={"id": "wob_loc"}).text
+    # extract temperature now
+    result['temp_now'] = soup.find("span", attrs={"id": "wob_tm"}).text
+    # get the day and hour now
+    result['dayhour'] = soup.find("div", attrs={"id": "wob_dts"}).text
+    # get the actual weather
+    result['weather_now'] = soup.find("span", attrs={"id": "wob_dc"}).text
+        # get the precipitation
+    result['precipitation'] = soup.find("span", attrs={"id": "wob_pp"}).text
+    # get the % of humidity
+    result['humidity'] = soup.find("span", attrs={"id": "wob_hm"}).text
+    # extract the wind
+    result['wind'] = soup.find("span", attrs={"id": "wob_ws"}).text
 
