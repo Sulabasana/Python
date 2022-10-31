@@ -1,5 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
+import requests
 
 #Get input from user
 firstCur = input("Provide first currency: ")
@@ -28,23 +29,24 @@ def prepareURL(currency):
         return("https://www.biznesradar.pl/waluty/nbp/EURO")
        
 
-print(prepareURL(firstCur))
+# print(prepareURL(firstCur))
 url = prepareURL(firstCur)
 # print(prepareURL(firstCur))
 # Open page
 def openPage(ending):
-    print(url)
-    # def scraper():
-    #     response = requests.get(url)
-    #     print(response)
-    #     soup = bs(response.content, 'html.parser')
-    #     rev_span = soup.findAll("span",attrs={"class","q_ch_act"})
-    #     for j in range(len(rev_span)):
-	# 		finding all the p tags to fetch only the review text
-	# 	    pagewise_reviews.append(rev_div[j].find("p").text)
-    #     return all_pages_reviews
-    # reviews = scraper()
-    # print(reviews)
+    # print(ending)
+    def scraper():
+        response = requests.get(ending)
+        # print(response)
+        soup = bs(response.content, 'html.parser')
+        rev_span = soup.findAll("span",attrs={"class","q_ch_act"})
+        # print(rev_span)
+        for j in range(len(rev_span)):
+		    # finding all the p tags to fetch only the review text
+            pagewise_reviews.append(rev_div[j].find("p").text)
+        return all_pages_reviews
+    reviews = scraper()
+    print(reviews)
 
 openPage(url)
 
