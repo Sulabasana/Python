@@ -18,15 +18,15 @@ else:
 def prepareURL(currency):
     # currencyEnd 
     if(currency == "AUD"):
-        return("https://www.biznesradar.pl/waluty/nbp/AUD-DOLAR-AUSTRALIJSKI")
+        return("https://www.biznesradar.pl/notowania/AUD-DOLAR-AUSTRALIJSKI")
     elif(currency == "USD"):
-        return("https://www.biznesradar.pl/waluty/nbp/USD-DOLAR")
+        return("https://www.biznesradar.pl/notowania/USD-DOLAR")
     elif(currency == "GBP"):
-        return("https://www.biznesradar.pl/waluty/nbp/GBP-FUNT-SZTERLING")
+        return("https://www.biznesradar.pl/notowania/GBP-FUNT-SZTERLING")
     elif(currency == "CHF"):
-        return("https://www.biznesradar.pl/waluty/nbp/CHF-FRANK-SZWAJCARSKI")
+        return("https://www.biznesradar.pl/notowania/CHF-FRANK-SZWAJCARSKI")
     elif(currency == "EUR"):
-        return("https://www.biznesradar.pl/waluty/nbp/EURO")
+        return("https://www.biznesradar.pl/notowania/EURO")
        
 
 # print(prepareURL(firstCur))
@@ -46,7 +46,7 @@ def openPage(ending):
             pagewise_reviews.append(rev_div[j].find("p").text)
         return all_pages_reviews
     reviews = scraper()
-    print(reviews)
+    # print(reviews)
 
 openPage(url)
 
