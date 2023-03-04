@@ -1,3 +1,4 @@
+from locale import currency
 from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
 import requests
@@ -41,10 +42,15 @@ def openPage(ending):
         soup = bs(response.content, 'html.parser')
         rev_span = soup.findAll("span",attrs={"class","q_ch_act"})
         # print(rev_span)
-        for j in range(len(rev_span)):
-		    # finding all the p tags to fetch only the review text
-            pagewise_reviews.append(rev_div[j].find("p").text)
-        return all_pages_reviews
+        for i in range(len(rev_span)):
+            if i == 1:
+                # print(rev_span[0])
+                rev_span = rev_span[0].text
+                # print(rev_span)
+                #finding all the p tags to fetch only the review text
+            # pagewise_reviews.append(rev_div[j].find("p").text)
+        # return all_pages_reviews
+        print("1 " + firstCur + " is " + rev_span + " PLN")
     reviews = scraper()
     # print(reviews)
 
