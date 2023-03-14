@@ -50,11 +50,14 @@ def openPage(ending):
                 #finding all the p tags to fetch only the review text
             # pagewise_reviews.append(rev_div[j].find("p").text)
         # return all_pages_reviews
-        print("1 " + firstCur + " is " + rev_span + " PLN")
+        # print("1 " + firstCur + " is " + rev_span + " PLN")
+        return("1 " + firstCur + " is " + rev_span + " PLN")
     reviews = scraper()
+    return reviews
     # print(reviews)
 
 openPage(url)
+rateCurrency = openPage(url)
 
 
 
