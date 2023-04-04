@@ -1,0 +1,4 @@
+onet.pl
+wp.pl
+google.com
+

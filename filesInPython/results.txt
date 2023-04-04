@@ -1,0 +1,20 @@
+Server:  UnKnown
+Address:  fe80::6eba:b8ff:fe4a:adb0
+
+Name:    onet.pl
+Addresses:  99.83.207.202
+	  75.2.92.173
+
+Server:  UnKnown
+Address:  fe80::6eba:b8ff:fe4a:adb0
+
+Name:    wp.pl
+Address:  212.77.98.9
+
+Server:  UnKnown
+Address:  fe80::6eba:b8ff:fe4a:adb0
+
+Name:    google.com
+Addresses:  2a00:1450:401b:80e::200e
+	  142.250.203.142
+
