@@ -1,0 +1,2 @@
+python -m robot "https://Sulabasana:*****326a@ondemand.eu-central-1.saucelabs.com:443/wd/hub -v DESIRED_CAPABILITIES:"name:Amazon,platrfrom:windows10,browserName:Chrome,version:latest" -d amazon.robot
+
