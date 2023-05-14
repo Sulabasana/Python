@@ -1,0 +1,9 @@
+python -m robot -d results -N  "Full regresion" 
+
+-d (folder w którym zapisze wyniki)
+-N (Nazwa TC )
+-t (pojednyczy TC z pliku)
+-i (odpala TC z danym tagiem)
+-v (odpala z Name:Vaule pair na przykłd BROWSER:chrome)
+
+Robot frameowrk user guide
