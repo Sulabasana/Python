@@ -1,5 +1,5 @@
 *** Settings ***
-Library    Selenium2Library
+Library    SeleniumLibrary
 #pybot -d results Tests/Locators.robot
 *** Variables ***
 

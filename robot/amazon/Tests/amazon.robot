@@ -1,5 +1,5 @@
 ****** Settings ***
-Documentation   This is soem basic info about the whole suite
+Documentation   This is some basic info about the whole suite
 Library  SeleniumLibrary
 
 # Copy/paste the line below into Terminal to execute:
