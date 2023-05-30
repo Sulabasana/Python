@@ -39,19 +39,27 @@ driver.get("https://www.premierleague.com/players/")
 
 # searching for player
 # web driver wait
-element = WebDriverWait(driver, 10).until(
+element = WebDriverWait(driver, 50).until(
     EC.element_to_be_clickable((By.ID, "search-input")))
 
-search_ele = driver.find_element_by_id("search-input")
+search_ele = driver.find_element(By.ID, "search-input")
 search_ele.send_keys(playerName)
+time.sleep(2)
 search_ele.send_keys(Keys.RETURN)
 
+
 # clicking on player
-driver.implicitly_wait(3)
-playerLink =f'[alt= "Photo for " + {playerName}]'
+# driver.implicitly_wait(3)
+playerLink = f'"Photo for {playerName}"'
+# print("Player link is " + playerLink)
 print(playerLink)
-# click_player = driver.find_element_by_xpath("//img[@data-player='p13017']").click()
-click_player=driver.find_elements_by_css_selector(playerLink)
+# click_player = driver.find_element_by_xpath("//img[@alt='" + playerLink + "']").click()
+# click_player = driver.find_element(By.ID, "text")
+click_player = driver.find_element_by_xpath("//img[@alt=%s]"%str(playerLink)).click()
+
+
+
+
  
 
 # Assign to variable
@@ -86,3 +94,4 @@ print(10*"-" + playerName + " Stats" + 10*"-" + "\n")
 for stat in stat_finder:
     print(stat["data-stat"] +  " - " + stat.string)
 
+driver.close()
