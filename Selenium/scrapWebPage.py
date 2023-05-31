@@ -55,7 +55,10 @@ playerLink = f'"Photo for {playerName}"'
 print(playerLink)
 # click_player = driver.find_element_by_xpath("//img[@alt='" + playerLink + "']").click()
 # click_player = driver.find_element(By.ID, "text")
-click_player = driver.find_element_by_xpath("//img[@alt=%s]"%str(playerLink)).click()
+# click_player = driver.find_element_by_xpath("//img[@alt=%s]"%str(playerLink)).click()
+# click_player = driver.find_element_by_xpath("//img[@alt='Photo for Wayne Rooney')]".click()
+                                            
+click_player = driver.find_element(By.XPATH, "//*[@alt='Photo for Wayne Rooney']").click()
 
 
 
