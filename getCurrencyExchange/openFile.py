@@ -27,15 +27,16 @@ def select_file():
     # )
     fileNext = filename.split('/')[len(filename.split('/'))-1]
     return fileNext
-    root.quit()
+    # root.quit()
 
 # quitApp = quitWind()
 # open button
 open_button = ttk.Button(
     root,
     text='Open a File',
-    command=select_file,
+    command=select_file
 )
+
 fileName = select_file()
 
 open_button.pack(expand=True)

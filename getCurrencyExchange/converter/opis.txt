@@ -1,0 +1,5 @@
+1. Apka z wyborem i klikaniem
+2. Wybierz walute 
+3. Pobierz kurs z internetu i zapisz do excela
+4. sprawdź najwyższy kurs i najniżysz kurs
+5. Wykres z ostatnich 10 dni
