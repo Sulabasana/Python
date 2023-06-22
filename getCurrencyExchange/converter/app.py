@@ -2,6 +2,8 @@
 from tkinter import *
 from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
+from datetime import date
+# from newExchange import *
 import requests
 
 # Create object
@@ -15,6 +17,7 @@ def show():
     label.config(text = clicked.get())
     linkURL = prepareURL(clicked.get())
     openPage(linkURL)
+    writeToFile(reviews)
     return clicked.get()
 # def show():
 #     label.config(text = clicked.get())
@@ -60,8 +63,14 @@ def openPage(ending):
     reviews = scraper()
     return reviews
 
-def writeToFile(nameFile):
-    
+def writeToFile(rateCurrnency):
+    today = date.today()
+    d1 = today.strftime("%d.%m.%Y")
+    print("Today's date:", d1)
+    print("Exchange rate is: ", rateCurrency)
+    rate=rateCurrency
+    with open('currencyRate.txt','a') as f:
+        f.write(f"{d1};{rate}\n")
 # print(prepareURL(clicked))
 # initial menu text
 clicked.set( "Select Currency" )

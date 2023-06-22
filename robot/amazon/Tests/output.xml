@@ -1,83 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 6.0.2 (Python 3.6.5 on win32)" generated="20230514 12:06:05.656" rpa="false" schemaversion="3">
-<suite id="s1" name="Amazon" source="C:\Users\Piotrek\Documents\GitHub\Python\robot\amazon\Tests\amazon.robot">
+<robot generator="Robot 6.0 (Python 3.8.0 on win32)" generated="20230520 22:35:26.196" rpa="false" schemaversion="3">
+<suite id="s1" name="Amazon" source="C:\Users\piotr\Github\Python\Python\robot\amazon\Tests\amazon.robot">
 <test id="s1-t1" name="User must sign it to check out" line="13">
-<kw name="Open Browser" library="SeleniumLibrary">
-<arg>http://www.amazon.com</arg>
-<arg>chrome</arg>
+<kw name="Begin Web Test">
+<kw name="Open Browser" library="Selenium2Library">
+<arg>about:blank chrome</arg>
 <doc>Opens a new browser instance to the optional ``url``.</doc>
-<msg timestamp="20230514 12:06:05.878" level="INFO">Opening browser 'chrome' to base url 'http://www.amazon.com'.</msg>
-<status status="PASS" starttime="20230514 12:06:05.878" endtime="20230514 12:06:08.736"/>
+<msg timestamp="20230520 22:35:26.566" level="INFO">Opening browser 'firefox' to base url 'about:blank chrome'.</msg>
+<msg timestamp="20230520 22:35:29.687" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<msg timestamp="20230520 22:35:29.687" level="FAIL">SessionNotCreatedException: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+</msg>
+<status status="FAIL" starttime="20230520 22:35:26.566" endtime="20230520 22:35:29.703"/>
 </kw>
-<kw name="Wait Until Page Contains" library="SeleniumLibrary">
-<arg>Today's Deals</arg>
-<doc>Waits until ``text`` appears on the current page.</doc>
-<status status="PASS" starttime="20230514 12:06:08.736" endtime="20230514 12:06:08.787"/>
+<status status="FAIL" starttime="20230520 22:35:26.566" endtime="20230520 22:35:29.703"/>
 </kw>
-<kw name="Input Text" library="SeleniumLibrary">
-<arg>id=twotabsearchtextbox</arg>
-<arg>Ferrari 458</arg>
-<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
-<msg timestamp="20230514 12:06:08.789" level="INFO">Typing text 'Ferrari 458' into text field 'id=twotabsearchtextbox'.</msg>
-<status status="PASS" starttime="20230514 12:06:08.787" endtime="20230514 12:06:08.962"/>
+<kw name="Search for Products">
+<status status="NOT RUN" starttime="20230520 22:35:29.703" endtime="20230520 22:35:29.703"/>
 </kw>
-<kw name="Click Button" library="SeleniumLibrary">
-<arg>xpath=//*[@id="nav-search"]/form/div[2]/div/input</arg>
-<doc>Clicks the button identified by ``locator``.</doc>
-<msg timestamp="20230514 12:06:08.963" level="INFO">Clicking button 'xpath=//*[@id="nav-search"]/form/div[2]/div/input'.</msg>
-<status status="PASS" starttime="20230514 12:06:08.962" endtime="20230514 12:06:09.089"/>
+<kw name="Select Product from Search Results">
+<status status="NOT RUN" starttime="20230520 22:35:29.703" endtime="20230520 22:35:29.703"/>
 </kw>
-<kw name="Wait Until Page Contains" library="SeleniumLibrary">
-<arg>results for "Ferrari 458"</arg>
-<doc>Waits until ``text`` appears on the current page.</doc>
-<kw name="Capture Page Screenshot" library="SeleniumLibrary">
-<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
-<msg timestamp="20230514 12:06:14.379" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-1.png"&gt;&lt;img src="selenium-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
-<status status="PASS" starttime="20230514 12:06:14.182" endtime="20230514 12:06:14.379"/>
+<kw name="Add Product to Cart">
+<status status="NOT RUN" starttime="20230520 22:35:29.703" endtime="20230520 22:35:29.703"/>
 </kw>
-<msg timestamp="20230514 12:06:14.379" level="FAIL">Text 'results for "Ferrari 458"' did not appear in 5 seconds.</msg>
-<status status="FAIL" starttime="20230514 12:06:09.090" endtime="20230514 12:06:14.381"/>
+<kw name="Begin Checkout">
+<status status="NOT RUN" starttime="20230520 22:35:29.703" endtime="20230520 22:35:29.703"/>
 </kw>
-<kw name="Click Link" library="SeleniumLibrary">
-<arg>css=#result_0 &gt; div &gt; div &gt; div &gt; div.a-fixed-left-grid-col.a-col-right &gt; div.a-row.a-spacing-small &gt; div:nth-child(1) &gt; a</arg>
-<doc>Clicks a link identified by ``locator``.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.381" endtime="20230514 12:06:14.381"/>
-</kw>
-<kw name="Wait Until Page Contains" library="SeleniumLibrary">
-<arg>Back to search results</arg>
-<doc>Waits until ``text`` appears on the current page.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.381" endtime="20230514 12:06:14.382"/>
-</kw>
-<kw name="Click Button" library="SeleniumLibrary">
-<arg>id=add-to-cart-button</arg>
-<doc>Clicks the button identified by ``locator``.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.382" endtime="20230514 12:06:14.382"/>
-</kw>
-<kw name="Wait Until Page Contains" library="SeleniumLibrary">
-<arg>Added to Cart</arg>
-<doc>Waits until ``text`` appears on the current page.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.382" endtime="20230514 12:06:14.382"/>
-</kw>
-<kw name="Click Link" library="SeleniumLibrary">
-<arg>id=hlb-ptc-btn-native</arg>
-<doc>Clicks a link identified by ``locator``.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.383" endtime="20230514 12:06:14.383"/>
-</kw>
-<kw name="Page Should Contain Element" library="SeleniumLibrary">
-<arg>continue</arg>
-<doc>Verifies that element ``locator`` is found on the current page.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.383" endtime="20230514 12:06:14.383"/>
-</kw>
-<kw name="Close Browser" library="SeleniumLibrary">
-<doc>Closes the current browser.</doc>
-<status status="NOT RUN" starttime="20230514 12:06:14.383" endtime="20230514 12:06:14.384"/>
+<kw name="End Web Test">
+<status status="NOT RUN" starttime="20230520 22:35:29.703" endtime="20230520 22:35:29.703"/>
 </kw>
 <doc>This is some basic information about the test</doc>
 <tag>Smoke</tag>
-<status status="FAIL" starttime="20230514 12:06:05.876" endtime="20230514 12:06:14.384">Text 'results for "Ferrari 458"' did not appear in 5 seconds.</status>
+<status status="FAIL" starttime="20230520 22:35:26.566" endtime="20230520 22:35:29.703">SessionNotCreatedException: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+</status>
 </test>
 <doc>This is some basic info about the whole suite</doc>
-<status status="FAIL" starttime="20230514 12:06:05.658" endtime="20230514 12:06:14.385"/>
+<status status="FAIL" starttime="20230520 22:35:26.212" endtime="20230520 22:35:29.703"/>
 </suite>
 <statistics>
 <total>
