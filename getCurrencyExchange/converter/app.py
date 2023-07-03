@@ -17,7 +17,9 @@ def show():
     label.config(text = clicked.get())
     linkURL = prepareURL(clicked.get())
     openPage(linkURL)
-    writeToFile(reviews)
+    print(openPage(linkURL))
+    print(reviews)
+    # writeToFile(reviews)
     return clicked.get()
 # def show():
 #     label.config(text = clicked.get())
