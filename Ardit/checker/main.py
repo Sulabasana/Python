@@ -1,5 +1,6 @@
 from parsers import parse 
 import random
+import time
  
 # Ask the user to enter a lower and an upper bound divided by a comma
 user_input = input("Enter a lower bound and an uppwer bound divided a comma (e.g., 2,10)")
