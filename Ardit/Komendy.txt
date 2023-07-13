@@ -1,0 +1,10 @@
+dir(index) taki man 
+
+
+mylist = ["a", "b", "c"]
+mylist.index("b") -> 1
+mylist[1] == "b"
+mylist.__getitem__(2) -->'c'
+
+names = ["john smith", "jay santi", "eva kuki"]
+names = [name.title() for name in names]
