@@ -2,11 +2,13 @@
 import PySimpleGUI as sg
 import time
 import os
+# from getValue import rateCurrency
 
 currency = ["EUR", "GBP", "USD", "CHF"]
 clock = sg.Text('', key='clock')
 label = sg.Text("Select Currency")
 list1 = sg.Combo(currency, size =[45,10])
+selectedcurrency = sg.Text("", key="selected")
 # empty_field = 
 convert_button = sg.Button("Convert")
 add_to_excel = sg.Button("Add to Excel")
@@ -14,11 +16,23 @@ create_chart = sg.Button("Create Chart")
 
 window = sg.Window("Select Currency",
                    layout=[[clock],
-                            [label],
+                            [selectedcurrency],
+                            [label],                            
                             [list1, convert_button],
                             [add_to_excel, create_chart]],
                             
                     font=("Helvetica", 20))
+
+while True:
+    event, values = window.read()
+    window['clock'].update(value=time.strftime("%d-%m-%Y %H:%M:%S"))
+    window['selected'].update(value="EUR")
+    print(event)
+    print(values)
+    
+
+
+
 window.read()
 window.close()
 # # Import module
