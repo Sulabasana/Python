@@ -2,12 +2,14 @@
 import PySimpleGUI as sg
 import time
 import os
+import getValue
 # from getValue import rateCurrency
 
 currency = ["EUR", "GBP", "USD", "CHF"]
+
 clock = sg.Text('', key='clock')
 label = sg.Text("Select Currency")
-list1 = sg.Combo(currency, size =[45,10])
+list1 = sg.Listbox(currency, size =[45,10])
 selectedcurrency = sg.Text("", key="selected")
 # empty_field = 
 convert_button = sg.Button("Convert")
@@ -25,10 +27,15 @@ window = sg.Window("Select Currency",
 
 while True:
     event, values = window.read()
+    new_values = str(values[0])
+    new_values = new_values.replace("[","").replace("]","").replace("'","")
+    print(new_values)
     window['clock'].update(value=time.strftime("%d-%m-%Y %H:%M:%S"))
-    window['selected'].update(value="EUR")
+    window['selected'].update(value=new_values)
     print(event)
     print(values)
+    if event == "Convert":
+        print("Joł mama")
     
 
 
