@@ -16,12 +16,15 @@ try:
     # Connect to the SSH server
     ssh.connect(hostname, port, username, password)
 
-    # Execute a remote command
-    command = 'ls -l'
+    # Specify the directory you want to change to
+    target_directory = '/path/to/your/target/directory'
+
+    # Execute the 'cd' command remotely to change the directory
+    command = f'cd {target_directory} && pwd'  # 'pwd' to print the current working directory
     stdin, stdout, stderr = ssh.exec_command(command)
 
-    # Print the command output
-    print("Command Output:")
+    # Print the current working directory after changing
+    print("Current Working Directory:")
     print(stdout.read().decode())
 
     # Close the SSH connection
