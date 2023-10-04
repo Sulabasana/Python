@@ -16,16 +16,31 @@ try:
     # Connect to the SSH server
     ssh.connect(hostname, port, username, password)
 
-    # Specify the directory you want to change to
-    target_directory = '/path/to/your/target/directory'
+    # Command 1: Check file content
+    file_path = '/path/to/your/file.txt'
+    check_command = f'cat {file_path}'
 
-    # Execute the 'cd' command remotely to change the directory
-    command = f'cd {target_directory} && pwd'  # 'pwd' to print the current working directory
-    stdin, stdout, stderr = ssh.exec_command(command)
+    stdin, stdout, stderr = ssh.exec_command(check_command)
 
-    # Print the current working directory after changing
-    print("Current Working Directory:")
-    print(stdout.read().decode())
+    # Read the file content
+    file_content = stdout.read().decode().strip()
+
+    # Perform action based on file content
+    if "some_condition" in file_content:
+        # Command 2: Change directory
+        target_directory = '/path/to/your/target/directory'
+        change_dir_command = f'cd {target_directory} && pwd'
+        stdin, stdout, stderr = ssh.exec_command(change_dir_command)
+        print("Current Working Directory:")
+        print(stdout.read().decode())
+
+        # Command 3: Execute another command
+        command_to_execute = 'ls -l'
+        stdin, stdout, stderr = ssh.exec_command(command_to_execute)
+        print("Command Output:")
+        print(stdout.read().decode())
+    else:
+        print("File content condition not met")
 
     # Close the SSH connection
     ssh.close()
