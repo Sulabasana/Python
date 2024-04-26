@@ -108,3 +108,19 @@ class Tetromino:
         self.shape = shape
         self.color = random.choice(COLORS) # You can choose different colors for each shape
         self.rotation = 0
+
+class Tetris:
+    def __init__(self, width, height):
+        self.width = width
+        self.height = height
+        self.grid = [[0 for _ in range(width)] for _ in range(height)]
+        self.current_piece = self.new_piece()
+        self.game_over = False
+        self.score = 0  # Add score attribute
+
+
+    def new_piece(self):
+        # Choose a random shape
+        shape = random.choice(SHAPES)
+        # Return a new Tetromino object
+        return Tetromino(self.width // 2, 0, shape)
