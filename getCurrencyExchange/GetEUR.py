@@ -40,7 +40,7 @@ d1 = today.strftime("%d.%m.%Y")
 print("Today's date:", d1)
 print("Exchange rate is: ", rateCurrency)
 rate=rateCurrency
-with open('EURRate.txt','a') as f:
+with open('EURRateMarcel.txt','a') as f:
     f.write(f"{d1};{rate}\n")
     
 
