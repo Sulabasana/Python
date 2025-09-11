@@ -1,0 +1,1184 @@
+[2025-09-09 20:15:30] Starting server check cycle...
+[2025-09-09 20:15:30] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:15:31] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:15:31] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:15:31] Cycle completed. Waiting 10 minutes...
+
+[2025-09-09 20:16:08] Starting server check cycle...
+[2025-09-09 20:16:08] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:16:08] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:16:08] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:16:08] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:16:28] Starting server check cycle...
+[2025-09-09 20:16:28] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:16:28] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:16:28] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:16:28] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:17:18] Starting server check cycle...
+[2025-09-09 20:17:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:17:18] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:17:18] [ERROR] 192.168.1.1127.0.0.1:80 is unreachable!
+[2025-09-09 20:17:18] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:17:28] Starting server check cycle...
+[2025-09-09 20:17:29] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:17:29] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:17:29] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:17:29] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:17:29] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:17:49] Starting server check cycle...
+[2025-09-09 20:17:49] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:17:49] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:17:49] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:17:49] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:17:49] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:18:09] Starting server check cycle...
+[2025-09-09 20:18:09] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:18:09] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:18:09] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:18:09] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:18:09] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:18:29] Starting server check cycle...
+[2025-09-09 20:18:29] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:18:29] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:18:29] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:18:29] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:18:29] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:18:49] Starting server check cycle...
+[2025-09-09 20:18:50] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:18:50] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:18:50] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:18:50] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:18:50] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:19:10] Starting server check cycle...
+[2025-09-09 20:19:10] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:19:10] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:19:10] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:19:10] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:19:10] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:19:30] Starting server check cycle...
+[2025-09-09 20:19:30] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:19:30] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:19:30] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:19:30] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:19:30] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:19:50] Starting server check cycle...
+[2025-09-09 20:19:50] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:19:50] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:19:50] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:19:50] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:19:50] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:20:10] Starting server check cycle...
+[2025-09-09 20:20:10] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:20:10] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:20:11] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:20:11] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:20:11] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:20:31] Starting server check cycle...
+[2025-09-09 20:20:31] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:20:31] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:20:31] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:20:31] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:20:31] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:20:51] Starting server check cycle...
+[2025-09-09 20:20:51] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:20:51] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:20:51] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:20:51] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:20:51] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:21:11] Starting server check cycle...
+[2025-09-09 20:21:11] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:21:11] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:21:11] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:21:11] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:21:11] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:21:31] Starting server check cycle...
+[2025-09-09 20:21:32] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:21:32] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:21:32] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:21:32] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:21:32] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:21:52] Starting server check cycle...
+[2025-09-09 20:21:52] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:21:52] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:21:52] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:21:52] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:21:52] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:22:12] Starting server check cycle...
+[2025-09-09 20:22:12] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:22:12] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:22:12] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:22:12] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:22:12] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:22:32] Starting server check cycle...
+[2025-09-09 20:22:32] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:22:32] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:22:32] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:22:32] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:22:32] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:22:52] Starting server check cycle...
+[2025-09-09 20:22:52] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:22:52] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:22:53] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:22:53] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:22:53] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:23:13] Starting server check cycle...
+[2025-09-09 20:23:13] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:23:13] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:23:13] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:23:13] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:23:13] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:23:33] Starting server check cycle...
+[2025-09-09 20:23:33] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:23:33] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:23:33] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:23:33] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:23:33] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:23:53] Starting server check cycle...
+[2025-09-09 20:23:53] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:23:53] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:23:53] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:23:53] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:23:53] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:24:13] Starting server check cycle...
+[2025-09-09 20:24:13] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:24:13] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:24:13] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:24:13] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:24:13] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:24:33] Starting server check cycle...
+[2025-09-09 20:24:33] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:24:33] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:24:34] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:24:34] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:24:34] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:24:54] Starting server check cycle...
+[2025-09-09 20:24:54] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:24:54] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:24:54] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:24:54] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:24:54] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:25:14] Starting server check cycle...
+[2025-09-09 20:25:14] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:25:14] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:25:14] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:25:14] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:25:14] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:25:34] Starting server check cycle...
+[2025-09-09 20:25:34] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:25:34] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:25:34] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:25:34] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:25:34] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:25:54] Starting server check cycle...
+[2025-09-09 20:25:54] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:25:54] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:25:54] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:25:54] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:25:54] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:26:14] Starting server check cycle...
+[2025-09-09 20:26:14] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:26:14] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:26:15] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:26:15] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:26:15] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:26:35] Starting server check cycle...
+[2025-09-09 20:26:35] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:26:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:26:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:26:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:26:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:26:55] Starting server check cycle...
+[2025-09-09 20:26:55] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:26:55] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:26:55] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:26:55] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:26:55] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:27:15] Starting server check cycle...
+[2025-09-09 20:27:15] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:27:15] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:27:15] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:27:15] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:27:15] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:27:35] Starting server check cycle...
+[2025-09-09 20:27:35] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:27:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:27:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:27:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:27:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:27:55] Starting server check cycle...
+[2025-09-09 20:27:55] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:27:55] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:27:56] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:27:56] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:27:56] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:28:16] Starting server check cycle...
+[2025-09-09 20:28:16] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:28:16] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:28:16] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:28:16] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:28:16] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:28:36] Starting server check cycle...
+[2025-09-09 20:28:36] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:28:36] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:28:36] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:28:36] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:28:36] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:28:56] Starting server check cycle...
+[2025-09-09 20:28:56] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:28:56] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:28:56] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:28:56] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:28:56] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:29:16] Starting server check cycle...
+[2025-09-09 20:29:16] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:29:16] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:29:16] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:29:16] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:29:16] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:29:36] Starting server check cycle...
+[2025-09-09 20:29:36] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:29:36] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:29:36] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:29:36] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:29:36] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:29:56] Starting server check cycle...
+[2025-09-09 20:29:57] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:29:57] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:29:57] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:29:57] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:29:57] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:30:17] Starting server check cycle...
+[2025-09-09 20:30:17] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:30:17] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:30:17] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:30:17] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:30:17] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:30:37] Starting server check cycle...
+[2025-09-09 20:30:37] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:30:37] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:30:37] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:30:37] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:30:37] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:30:57] Starting server check cycle...
+[2025-09-09 20:30:57] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:30:57] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:30:57] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:30:57] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:30:57] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:31:17] Starting server check cycle...
+[2025-09-09 20:31:17] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:31:17] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:31:17] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:31:17] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:31:17] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:31:37] Starting server check cycle...
+[2025-09-09 20:31:38] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:31:38] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:31:38] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:31:38] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:31:38] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:31:58] Starting server check cycle...
+[2025-09-09 20:31:58] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:31:58] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:31:58] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:31:58] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:31:58] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:32:18] Starting server check cycle...
+[2025-09-09 20:32:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:32:18] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:32:18] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:32:18] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:32:18] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:32:38] Starting server check cycle...
+[2025-09-09 20:32:38] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:32:38] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:32:38] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:32:38] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:32:38] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:32:58] Starting server check cycle...
+[2025-09-09 20:32:58] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:32:58] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:32:58] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:32:58] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:32:58] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:33:18] Starting server check cycle...
+[2025-09-09 20:33:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:33:19] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:33:19] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:33:19] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:33:19] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:33:39] Starting server check cycle...
+[2025-09-09 20:33:39] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:33:39] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:33:39] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:33:39] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:33:39] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:33:59] Starting server check cycle...
+[2025-09-09 20:33:59] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:33:59] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:33:59] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:33:59] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:33:59] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:34:19] Starting server check cycle...
+[2025-09-09 20:34:19] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:34:19] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:34:19] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:34:19] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:34:19] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:34:39] Starting server check cycle...
+[2025-09-09 20:34:39] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:34:39] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:34:39] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:34:39] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:34:39] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:34:59] Starting server check cycle...
+[2025-09-09 20:35:00] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:35:00] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:35:00] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:35:00] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:35:00] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:35:20] Starting server check cycle...
+[2025-09-09 20:35:20] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:35:20] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:35:20] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:35:20] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:35:20] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:35:40] Starting server check cycle...
+[2025-09-09 20:35:40] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:35:40] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:35:40] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:35:40] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:35:40] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:36:00] Starting server check cycle...
+[2025-09-09 20:36:00] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:36:00] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:36:00] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:36:00] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:36:00] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:36:20] Starting server check cycle...
+[2025-09-09 20:36:20] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:36:20] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:36:20] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:36:20] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:36:20] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:36:40] Starting server check cycle...
+[2025-09-09 20:36:40] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:36:41] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:36:41] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:36:41] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:36:41] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:37:01] Starting server check cycle...
+[2025-09-09 20:37:01] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:37:01] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:37:01] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:37:01] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:37:01] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:37:21] Starting server check cycle...
+[2025-09-09 20:37:21] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:37:21] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:37:21] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:37:21] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:37:21] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 20:37:41] Starting server check cycle...
+[2025-09-09 20:37:41] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 20:37:41] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 20:37:41] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 20:37:41] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 20:37:41] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:06:51] Starting server check cycle...
+[2025-09-09 21:06:52] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:06:52] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:06:52] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:06:52] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:06:52] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:07:12] Starting server check cycle...
+[2025-09-09 21:07:12] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:07:12] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:07:12] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:07:12] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:07:12] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:07:32] Starting server check cycle...
+[2025-09-09 21:07:32] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:07:32] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:07:32] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:07:33] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:07:33] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:07:53] Starting server check cycle...
+[2025-09-09 21:07:53] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:07:53] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:07:53] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:07:53] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:07:53] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:08:13] Starting server check cycle...
+[2025-09-09 21:08:13] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:08:13] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:08:13] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:08:13] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:08:13] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:08:33] Starting server check cycle...
+[2025-09-09 21:08:33] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:08:33] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:08:33] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:08:33] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:08:33] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:08:53] Starting server check cycle...
+[2025-09-09 21:08:53] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:08:53] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:08:53] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:08:53] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:08:53] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:09:13] Starting server check cycle...
+[2025-09-09 21:09:13] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:09:13] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:09:13] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:09:13] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:09:13] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:09:33] Starting server check cycle...
+[2025-09-09 21:09:34] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:09:34] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:09:34] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:09:34] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:09:34] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:09:54] Starting server check cycle...
+[2025-09-09 21:09:54] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:09:54] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:09:54] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:09:54] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:09:54] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:10:14] Starting server check cycle...
+[2025-09-09 21:10:14] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:10:14] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:10:14] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:10:14] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:10:14] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:10:34] Starting server check cycle...
+[2025-09-09 21:10:34] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:10:34] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:10:34] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:10:34] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:10:34] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:10:54] Starting server check cycle...
+[2025-09-09 21:10:54] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:10:54] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:10:54] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:10:54] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:10:54] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:11:14] Starting server check cycle...
+[2025-09-09 21:11:15] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:11:15] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:11:15] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:11:15] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:11:15] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:11:35] Starting server check cycle...
+[2025-09-09 21:11:35] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:11:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:11:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:11:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:11:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:11:55] Starting server check cycle...
+[2025-09-09 21:11:55] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:11:55] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:11:55] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:11:55] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:11:55] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:12:15] Starting server check cycle...
+[2025-09-09 21:12:15] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:12:15] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:12:15] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:12:15] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:12:15] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:12:35] Starting server check cycle...
+[2025-09-09 21:12:35] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:12:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:12:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:12:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:12:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:12:55] Starting server check cycle...
+[2025-09-09 21:12:55] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:12:56] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:12:56] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:12:56] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:12:56] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:13:16] Starting server check cycle...
+[2025-09-09 21:13:16] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:13:16] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:13:16] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:13:16] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:13:16] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:13:36] Starting server check cycle...
+[2025-09-09 21:13:36] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:13:36] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:13:36] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:13:36] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:13:36] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:13:56] Starting server check cycle...
+[2025-09-09 21:13:56] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:13:56] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:13:56] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:13:56] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:13:56] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:14:16] Starting server check cycle...
+[2025-09-09 21:14:16] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:14:16] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:14:16] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:14:16] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:14:16] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:14:36] Starting server check cycle...
+[2025-09-09 21:14:37] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:14:37] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:14:37] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:14:37] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:14:37] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:14:57] Starting server check cycle...
+[2025-09-09 21:14:57] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:14:57] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:14:57] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:14:57] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:14:57] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:15:17] Starting server check cycle...
+[2025-09-09 21:15:17] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:15:17] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:15:17] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:15:17] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:15:17] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:15:37] Starting server check cycle...
+[2025-09-09 21:15:37] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:15:37] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:15:37] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:15:37] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:15:37] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:15:57] Starting server check cycle...
+[2025-09-09 21:15:57] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:15:57] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:15:57] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:15:58] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:15:58] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:16:18] Starting server check cycle...
+[2025-09-09 21:16:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:16:18] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:16:18] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:16:18] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:16:18] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:16:38] Starting server check cycle...
+[2025-09-09 21:16:38] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:16:38] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:16:38] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:16:38] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:16:38] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:16:58] Starting server check cycle...
+[2025-09-09 21:16:58] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:16:58] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:16:58] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:16:58] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:16:58] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:17:18] Starting server check cycle...
+[2025-09-09 21:17:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:17:18] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:17:18] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:17:18] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:17:18] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:17:38] Starting server check cycle...
+[2025-09-09 21:17:38] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:17:38] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:17:38] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:17:38] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:17:38] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:17:58] Starting server check cycle...
+[2025-09-09 21:17:58] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:17:59] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:17:59] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:17:59] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:17:59] Cycle completed. Waiting 0 minutes...
+
+[2025-09-09 21:18:19] Starting server check cycle...
+[2025-09-09 21:18:19] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-09 21:18:19] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-09 21:18:19] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-09 21:18:19] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-09 21:18:19] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 12:05:33] Starting server check cycle...
+[2025-09-10 12:05:35] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 12:05:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 12:05:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 12:05:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 12:05:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:45:43] Starting server check cycle...
+[2025-09-10 18:45:43] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:45:44] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:45:44] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:45:44] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:45:44] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:46:04] Starting server check cycle...
+[2025-09-10 18:46:04] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:46:04] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:46:04] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:46:05] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:46:05] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:46:25] Starting server check cycle...
+[2025-09-10 18:46:25] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:46:25] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:46:25] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:46:25] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:46:25] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:46:45] Starting server check cycle...
+[2025-09-10 18:46:45] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:46:45] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:46:45] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:46:45] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:46:45] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:47:05] Starting server check cycle...
+[2025-09-10 18:47:05] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:47:05] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:47:05] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:47:05] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:47:05] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:47:25] Starting server check cycle...
+[2025-09-10 18:47:25] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:47:25] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:47:25] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:47:26] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:47:26] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:47:46] Starting server check cycle...
+[2025-09-10 18:47:46] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:47:46] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:47:46] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:47:46] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:47:46] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:48:06] Starting server check cycle...
+[2025-09-10 18:48:06] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:48:06] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:48:06] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:48:06] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:48:06] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:48:26] Starting server check cycle...
+[2025-09-10 18:48:26] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:48:26] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:48:26] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:48:26] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:48:26] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:48:46] Starting server check cycle...
+[2025-09-10 18:48:46] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:48:46] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:48:46] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:48:46] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:48:46] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:49:06] Starting server check cycle...
+[2025-09-10 18:49:06] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:49:06] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:49:06] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:49:06] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:49:06] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:49:26] Starting server check cycle...
+[2025-09-10 18:49:27] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:49:27] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:49:27] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:49:27] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:49:27] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:49:47] Starting server check cycle...
+[2025-09-10 18:49:47] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:49:47] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:49:47] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:49:47] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:49:47] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:50:07] Starting server check cycle...
+[2025-09-10 18:50:07] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:50:07] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:50:07] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:50:07] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:50:07] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:50:27] Starting server check cycle...
+[2025-09-10 18:50:27] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:50:27] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:50:27] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:50:27] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:50:27] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:50:47] Starting server check cycle...
+[2025-09-10 18:50:47] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:50:47] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:50:47] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:50:48] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:50:48] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:51:08] Starting server check cycle...
+[2025-09-10 18:51:08] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:51:08] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:51:08] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:51:08] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:51:08] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:51:28] Starting server check cycle...
+[2025-09-10 18:51:28] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:51:28] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:51:28] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:51:28] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:51:28] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:51:48] Starting server check cycle...
+[2025-09-10 18:51:48] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:51:48] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:51:48] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:51:48] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:51:48] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:52:08] Starting server check cycle...
+[2025-09-10 18:52:08] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:52:08] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:52:08] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:52:08] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:52:08] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:52:28] Starting server check cycle...
+[2025-09-10 18:52:29] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:52:29] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:52:29] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:52:29] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:52:29] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:52:49] Starting server check cycle...
+[2025-09-10 18:52:49] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:52:49] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:52:49] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:52:49] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:52:49] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:53:09] Starting server check cycle...
+[2025-09-10 18:53:09] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:53:09] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:53:09] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:53:09] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:53:09] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:53:29] Starting server check cycle...
+[2025-09-10 18:53:29] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:53:29] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:53:29] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:53:29] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:53:29] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:53:49] Starting server check cycle...
+[2025-09-10 18:53:49] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:53:50] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:53:50] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:53:50] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:53:50] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:54:10] Starting server check cycle...
+[2025-09-10 18:54:10] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:54:10] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:54:10] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:54:10] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:54:10] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:54:30] Starting server check cycle...
+[2025-09-10 18:54:30] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:54:30] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:54:30] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:54:30] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:54:30] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:54:50] Starting server check cycle...
+[2025-09-10 18:54:50] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:54:50] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:54:50] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:54:50] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:54:50] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:55:10] Starting server check cycle...
+[2025-09-10 18:55:10] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:55:11] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:55:11] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:55:11] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:55:11] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:55:31] Starting server check cycle...
+[2025-09-10 18:55:31] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:55:31] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:55:31] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:55:31] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:55:31] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:55:51] Starting server check cycle...
+[2025-09-10 18:55:51] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:55:51] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:55:51] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:55:51] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:55:51] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:56:11] Starting server check cycle...
+[2025-09-10 18:56:11] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:56:11] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:56:11] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:56:11] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:56:11] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:56:31] Starting server check cycle...
+[2025-09-10 18:56:32] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:56:32] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:56:32] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:56:32] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:56:32] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:56:52] Starting server check cycle...
+[2025-09-10 18:56:52] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:56:52] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:56:52] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:56:52] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:56:52] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:57:12] Starting server check cycle...
+[2025-09-10 18:57:12] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:57:12] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:57:12] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:57:12] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:57:12] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:57:32] Starting server check cycle...
+[2025-09-10 18:57:32] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:57:32] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:57:32] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:57:33] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:57:33] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:57:53] Starting server check cycle...
+[2025-09-10 18:57:53] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:57:53] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:57:53] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:57:53] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:57:53] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:58:13] Starting server check cycle...
+[2025-09-10 18:58:13] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:58:13] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:58:13] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:58:13] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:58:13] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:58:33] Starting server check cycle...
+[2025-09-10 18:58:33] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:58:33] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:58:33] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:58:33] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:58:33] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:58:53] Starting server check cycle...
+[2025-09-10 18:58:53] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:58:53] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:58:53] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:58:53] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:58:53] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:59:13] Starting server check cycle...
+[2025-09-10 18:59:14] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:59:14] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:59:14] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:59:14] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:59:14] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:59:34] Starting server check cycle...
+[2025-09-10 18:59:34] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:59:34] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:59:34] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:59:34] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:59:34] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 18:59:54] Starting server check cycle...
+[2025-09-10 18:59:54] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 18:59:54] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 18:59:54] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 18:59:54] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 18:59:54] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:00:14] Starting server check cycle...
+[2025-09-10 19:00:14] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:00:14] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:00:14] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:00:14] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:00:14] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:00:34] Starting server check cycle...
+[2025-09-10 19:00:34] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:00:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:00:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:00:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:00:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:00:55] Starting server check cycle...
+[2025-09-10 19:00:55] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:00:55] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:00:55] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:00:55] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:00:55] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:01:15] Starting server check cycle...
+[2025-09-10 19:01:15] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:01:15] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:01:15] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:01:15] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:01:15] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:01:35] Starting server check cycle...
+[2025-09-10 19:01:35] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:01:35] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:01:35] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:01:35] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:01:35] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:01:55] Starting server check cycle...
+[2025-09-10 19:01:55] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:01:56] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:01:56] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:01:56] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:01:56] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:02:16] Starting server check cycle...
+[2025-09-10 19:02:16] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:02:16] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:02:16] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:02:16] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:02:16] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:02:36] Starting server check cycle...
+[2025-09-10 19:02:36] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:02:36] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:02:36] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:02:36] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:02:36] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:02:56] Starting server check cycle...
+[2025-09-10 19:02:56] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:02:56] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:02:56] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:02:56] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:02:56] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:03:16] Starting server check cycle...
+[2025-09-10 19:03:16] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:03:16] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:03:16] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:03:17] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:03:17] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:03:37] Starting server check cycle...
+[2025-09-10 19:03:37] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:03:37] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:03:37] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:03:37] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:03:37] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:03:57] Starting server check cycle...
+[2025-09-10 19:03:57] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:03:57] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:03:57] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:03:57] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:03:57] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:04:17] Starting server check cycle...
+[2025-09-10 19:04:17] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:04:17] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:04:17] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:04:17] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:04:17] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:04:37] Starting server check cycle...
+[2025-09-10 19:04:37] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:04:37] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:04:37] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:04:37] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:04:37] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:04:57] Starting server check cycle...
+[2025-09-10 19:04:58] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:04:58] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:04:58] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:04:58] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:04:58] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:05:18] Starting server check cycle...
+[2025-09-10 19:05:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:05:18] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:05:18] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:05:18] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:05:18] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:05:38] Starting server check cycle...
+[2025-09-10 19:05:38] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:05:38] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:05:38] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:05:38] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:05:38] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:05:58] Starting server check cycle...
+[2025-09-10 19:05:58] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:05:58] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:05:58] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:05:58] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:05:58] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:06:18] Starting server check cycle...
+[2025-09-10 19:06:18] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:06:19] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:06:19] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:06:19] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:06:19] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:06:39] Starting server check cycle...
+[2025-09-10 19:06:39] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:06:39] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:06:39] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:06:39] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:06:39] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:06:59] Starting server check cycle...
+[2025-09-10 19:06:59] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:06:59] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:06:59] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:06:59] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:06:59] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:07:19] Starting server check cycle...
+[2025-09-10 19:07:19] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:07:19] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:07:19] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:07:20] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:07:20] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:07:40] Starting server check cycle...
+[2025-09-10 19:07:40] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:07:40] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:07:40] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:07:40] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:07:40] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 19:08:00] Starting server check cycle...
+[2025-09-10 19:08:00] [ERROR] 8.8.8.8:80 is unreachable!
+[2025-09-10 19:08:00] [ERROR] 1.1.1.1:80 is unreachable!
+[2025-09-10 19:08:00] [ERROR] 192.168.1.1:80 is unreachable!
+[2025-09-10 19:08:00] [ERROR] 127.0.0.1:80 is unreachable!
+[2025-09-10 19:08:00] Cycle completed. Waiting 0 minutes...
+
+[2025-09-10 20:54:38] Starting server check cycle...
+[2025-09-10 20:54:39] [OK] 8.8.8.8 is reachable.
+[2025-09-10 20:54:40] [OK] 1.1.1.1 is reachable.
+[2025-09-10 20:54:41] [OK] 192.168.1.1 is reachable.
+[2025-09-10 20:54:41] Cycle completed. Waiting 10 minutes...
+
+[2025-09-10 20:54:59] Starting server check cycle...
+[2025-09-10 20:55:00] [OK] 8.8.8.8 is reachable.
+[2025-09-10 20:55:02] [OK] 1.1.1.1 is reachable.
+[2025-09-10 20:55:03] [ERROR] 192.168.1.120 is unreachable!
+[2025-09-10 20:55:03] Cycle completed. Waiting 10 minutes...
+
